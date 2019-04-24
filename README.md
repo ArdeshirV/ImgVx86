@@ -9,7 +9,7 @@
 <p>ImgVx86.com shows a photo:</p>
 <img alt="ImgVx86.com show a photo" src="https://raw.githubusercontent.com/ArdeshirV/ImgVx86/master/img/ImgVx86_1.png">
 <br/>
-<p>ImgVx86.com shows another photo:</p>
+<p>ImgVx86.com shows another photo when you press a key:</p>
 <img alt="ImgVx86.com show another photo" src="https://raw.githubusercontent.com/ArdeshirV/ImgVx86/master/img/ImgVx86_2.png">
 <br/>
 <p>
