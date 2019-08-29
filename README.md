@@ -2,31 +2,6 @@
 <html>
   <head>
     <style>
-      body {
-        margin: 5vh 5vw;
-        color: lime;
-        font-family: monospace;
-        background-color: black;
-      }
-      .copyright {
-        color: yellow;
-        text-align: center;
-      }
-      section {
-        margin-bottom: 4em;
-        margin-left: 2em;
-        margin-right: 2em;
-      }
-      img {
-        width: 100%;
-      }
-      h1 {
-        color: red;
-        text-align: center;
-      }
-      pre {
-        color: gray;
-      }
     </style>
   </head>
   <body>
@@ -35,9 +10,6 @@
     </header>
     <main>
       <article>
-        <section>
-          <p><a href="https://github.com/ArdeshirV/ImgVx86/" target="_blank" alt="Download ImgVx86 source code">Source code on my github</a></p>
-        </section>
         <section>
           <h2>ImgVx86 demonstrates photo in DOS operating system</h2>
           <p>The ImgVx86.com is an executable COM file that is only 385 byte and it is written in Assembly programming language but it can show a kind of none standard photo in DOS operating system. I developed this assembly program about 1998 when I was about 13 years and I didn't change it since 2003 except about adding copyright and GPL license because I want to share it here.</p>
