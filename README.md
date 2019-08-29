@@ -17,17 +17,17 @@
           <section>
             <h4>You can run the 'Run.bat' file to test ImgVx86.com:<h4>
             <img alt="find and run the Run.bat file" src="https://raw.githubusercontent.com/ArdeshirV/ImgVx86/master/img/ImgVx86_0_run.png">
-            <br/>
+            <br/><br/>
           </section>
           <section>
             <h4>ImgVx86.com shows another photo when you press a key:<h4>
             <img alt="ImgVx86.com show a photo" src="https://raw.githubusercontent.com/ArdeshirV/ImgVx86/master/img/ImgVx86_1.png">
-            <br/>
+            <br/><br/>
           </section>
           <section>
             <h4>ImgVx86.com shows another photo when you press a key:<h4>
             <img alt="ImgVx86.com show another photo" src="https://raw.githubusercontent.com/ArdeshirV/ImgVx86/master/img/ImgVx86_2.png">
-            <br/>
+            <br/><br/>
           </section>
         </section>
       </article>
