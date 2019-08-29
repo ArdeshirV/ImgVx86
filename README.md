@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-    </style>
   </head>
   <body>
     <header>
@@ -11,7 +9,7 @@
     <main>
       <article>
         <section>
-          <h2>ImgVx86 demonstrates photo in DOS operating system</h2>
+          <h2 style="">ImgVx86 demonstrates photo in DOS operating system</h2>
           <p>The ImgVx86.com is an executable COM file that is only 385 byte and it is written in Assembly programming language but it can show a kind of none standard photo in DOS operating system. I developed this assembly program about 1998 when I was about 13 years and I didn't change it since 2003 except about adding copyright and GPL license because I want to share it here.</p>
         </section>
         <section>
