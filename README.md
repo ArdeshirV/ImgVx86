@@ -34,7 +34,7 @@
     </main>
     <footer>
       <p class="copyright">
-        Copyright&copy; 1998-2003 <a href="mailto:ardeshirv@protonmail.com" alt="email">ArdeshirV@protonmail.com</a>, Licensed under GPL<sup>v3+</sup>
+        Copyright&copy; 1998-2019 <a href="mailto:ardeshirv@protonmail.com" alt="email">ArdeshirV@protonmail.com</a>, Licensed under GPL<sup>v3+</sup>
       <p/>
     </footer>
   </body>
